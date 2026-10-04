@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#F4F5F7</color>
+    <color name="card">#FFFFFF</color>
+    <color name="card_stroke">#14000000</color>
+    <color name="text_primary">#17181A</color>
+    <color name="text_secondary">#6B7078</color>
+    <color name="text_tertiary">#A0A5AD</color>
+    <color name="accent">#3482FF</color>
+    <color name="accent_soft">#1A3482FF</color>
+    <color name="ok">#12B76A</color>
+    <color name="ok_soft">#1A12B76A</color>
+    <color name="warn">#F79009</color>
+    <color name="divider">#0F000000</color>
+    <color name="chip_bg">#0D3482FF</color>
+    <color name="icon_bg">#123482FF</color>
+    <color name="code_bg">#0A000000</color>
+
+    <!-- badges -->
+    <color name="badge_popup_text">#D92D20</color>
+    <color name="badge_popup_bg">#14D92D20</color>
+    <color name="badge_ad_text">#DC6803</color>
+    <color name="badge_ad_bg">#14DC6803</color>
+    <color name="badge_stat_text">#026AA2</color>
+    <color name="badge_stat_bg">#14026AA2</color>
+    <color name="badge_promo_text">#6941C6</color>
+    <color name="badge_promo_bg">#146941C6</color>
+    <color name="badge_hotword_text">#067647</color>
+    <color name="badge_hotword_bg">#14067647</color>
+    <color name="badge_white_text">#0E7090</color>
+    <color name="badge_white_bg">#140E7090</color>
+</resources>

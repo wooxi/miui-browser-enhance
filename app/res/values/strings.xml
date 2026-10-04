@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小米浏览器增强</string>
+    <string name="xposed_desc">小米浏览器：智能弹窗拦截、内核广告免检白名单、视频保活与隐私优化</string>
+    <string name="sec_features">功能特性</string>
+    <string name="sec_logs">拦截与放行记录</string>
+    <string name="rules_title">网站规则配置</string>
+    <string name="rules_hint">每行一条：# 开头为注释\nnopopup:xxx 仅禁止某网站弹出新窗口\nnopopup:* 全局禁弹窗\nallow:xxx 强制加入内核广告免检白名单（放行封面与视频流）</string>
+    <string name="save_rules">保存规则</string>
+    <string name="saved">规则已生效并保存</string>
+    <string name="footer">修改规则后立即在内存生效，无需重启浏览器。\n默认白名单确保媒体流与封面图正常加载。</string>
+    <string name="state_on">已启用</string>
+    <string name="scope_placeholder">作用域：浏览器</string>
+    
+    <string name="f_guard_title">拦截广告弹窗与白名单</string>
+    <string name="f_guard_sub">阻断弹窗保住焦点，内核白名单免检封面与媒体流</string>
+
+    <string name="f_onetrack_title">禁用 OneTrack 上报</string>
+    <string name="f_onetrack_sub">关闭浏览器内置统计埋点，保护隐私并省电</string>
+
+    <string name="f_promo_title">禁止应用运营弹窗</string>
+    <string name="f_promo_sub">拦截浏览器自带的更新提示与推广活动</string>
+
+    <string name="f_hotword_title">关闭地址栏热搜词</string>
+    <string name="f_hotword_sub">输入网址时不再显示灰色推荐热搜词</string>
+
+    <string name="log_recent">最近拦截记录</string>
+    <string name="log_refresh">刷新</string>
+    <string name="log_clear">清空</string>
+    <string name="log_empty">暂无记录，浏览网页后将实时在此展示</string>
+</resources>

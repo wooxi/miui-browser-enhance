@@ -1,0 +1,33 @@
+# Build artifacts
+*.apk
+*.idsig
+*.zip
+*.dex
+*.class
+*.jar
+classes/
+obj/
+bin/
+gen/
+build/
+*.tmp
+*.log
+
+# Sensitive local keys / configs
+id_ed25519*
+vm_ssh_key*
+*.jks
+*.keystore
+secrets/
+*.log*
+*.bak
+
+# Temporary / diagnostic scripts
+test_*.py
+test_*.sh
+check_*.py
+check_*.sh
+inspect_*.py
+inspect_*.sh
+deploy_*.sh
+*.png
